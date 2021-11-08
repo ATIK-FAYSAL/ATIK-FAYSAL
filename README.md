@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
   </a>
   <a title="C++" href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/C++-%23ED8B00.svg?&style=flat-square&logo=C++&logoColor=white"/>
   </a>
 </p>
 
