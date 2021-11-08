@@ -103,9 +103,6 @@
 <a title="BitBucket" href="https://bitbucket.org/ATIK-FAYSAL/">
    <img src="https://img.shields.io/badge/Bitbucket%20-%230047B3.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
 </a>
-<a title="GitLab" href="https://gitlab.com/ATIK-FAYSAL">
-   <img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
-</a>  
 
 <h4>Editors & <span title="Intergrated Development Environment">IDE</span>'s</h4>
     
