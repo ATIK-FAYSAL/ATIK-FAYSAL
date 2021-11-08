@@ -18,14 +18,14 @@
 
 <h3>PROGRAMMING LANGUAGES </h3>
 <p>
-  <a title="PHP" href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
-  </a>
-  <a title="JavaScript" href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <a title="Kotlin" href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/kotlin-%23777BB4.svg?&style=flat-square&logo=kotlin&logoColor=white"/>
   </a>
   <a title="JAVA" href="https://www.java.com/en/">
     <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
+  </a>
+  <a title="C++" href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   </a>
 </p>
 
