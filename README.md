@@ -59,15 +59,15 @@
 </a>
 
 <h3>DATABASES</h3>
-    
+
+<a title="Room" href="https://developer.android.com/training/data-storage/room">
+    <img src="https://img.shields.io/badge/-Room-%234479A1?style=flat-square&logo=room&logoColor=ffffff"/>
+</a> 
 <a title="SQLite" href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=flat-square&logo=sqlite&logoColor=white"/>
 </a>
 <a title="MYSQL" href="https://www.mysql.com/">
     <img src="http://img.shields.io/badge/-MYSQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
-</a>
-<a title="Room" href="https://developer.android.com/training/data-storage/room">
-    <img src="https://img.shields.io/badge/-Room-%234479A1?style=flat-square&logo=room&logoColor=ffffff"/>
 </a>
 
 <h2>WHERE TO FIND ME</h2>
