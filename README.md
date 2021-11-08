@@ -34,7 +34,7 @@
 
 <h3>Android Skills</h3>
 <a title="Problem Solving" href="https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cyt6Ka7dlmc7t2DCxmhKGVcadHR-vz13HCC4NgyaoBYZkWBdctbMcaAnOhEALw_wcB&gclsrc=aw.ds">
-  <img src="https://img.shields.io/badge/Prolem%20Solving%20-%23E3B120.svg?&style=flat-square&logo=mvvm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving%20-%23E3B120.svg?&style=flat-square&logo=mvvm&logoColor=white"/>
 </a>
 <a title="MVVM" href="https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cyt6Ka7dlmc7t2DCxmhKGVcadHR-vz13HCC4NgyaoBYZkWBdctbMcaAnOhEALw_wcB&gclsrc=aw.ds">
   <img src="https://img.shields.io/badge/MVVM%20-%23E34F26.svg?&style=flat-square&logo=mvvm&logoColor=white"/>
@@ -72,7 +72,7 @@
 
 <h2>WHERE TO FIND ME</h2>
 <p>
-    <a title="Facebook" href="https://facebook.com/ATIK-FAYSAL">
+    <a title="Facebook" href="https://facebook.com/atikfaysal1404">
         <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://tinyurl.com/4c3u6b2e">
@@ -123,9 +123,6 @@
 <a title="PHPSTORM" href="https://www.jetbrains.com/phpstorm/">
    <img src="https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm" />
 </a>
-<a title="PyCharm" href="https://www.jetbrains.com/pycharm/">
-   <img src="https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=pycharm" />
-</a>
 <a title="Sublime Text" href="https://www.sublimetext.com/">
    <img src="https://img.shields.io/badge/-Sublime%20Text-%23FF9800?style=flat-square&logo=sublime-text&logoColor=white" />
 </a>
@@ -135,9 +132,6 @@
 
 <h4>Other Tools</h4>
 
-<a title="The World Wide Web Consortium (W3C)" href="https://www.w3.org/">
-   <img src="https://img.shields.io/badge/W3C-%23005A9C.svg?&style=flat-square&logo=w3c&logoColor=white"/>
-</a>
 <a title="APACHE (Web Server)" href="https://www.apache.org/">
    <img src="https://img.shields.io/badge/Apache-%23D22128.svg?&style=flat-square&logo=apache&logoColor=white"/>
 </a>
