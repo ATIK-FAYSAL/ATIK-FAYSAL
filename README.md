@@ -96,7 +96,7 @@
 <a title="Codeforces" href="https://tinyurl.com/234mht5a">
    <img src="https://img.shields.io/badge/Codeforces%20-%23FE04AE.svg?&style=flat-square&logo=codeforces&logoColor=white"/>
 </a>
-<a title="URI" href="https://tinyurl.com/234mht5a">
+<a title="URI" href="https://tinyurl.com/wpx5zdm8">
    <img src="https://img.shields.io/badge/URI%20-%2304E0FE.svg?&style=flat-square&logo=uri&logoColor=white"/>
 </a>
 
