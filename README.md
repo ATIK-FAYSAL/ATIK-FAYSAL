@@ -73,16 +73,16 @@
 <h2>WHERE TO FIND ME</h2>
 <p>
     <a title="Facebook" href="https://facebook.com/ATIK-FAYSAL">
-        <img src="https://img.shields.io/badge/-AtikFaysal-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://tinyurl.com/4c3u6b2e">
-        <img src="https://img.shields.io/badge/-AtikFaysal-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
     <a title="Instagram" href="https://instagram.com/mr.ms.AtikFaysal">
-        <img src="https://img.shields.io/badge/-AtikFaysal-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Instagram-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
     </a>
 	<a title="Skype" href="https://www.instagram.com/md_atik_faysal">
-        <img src="https://img.shields.io/badge/-AtikFaysal-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Skype-%2304B2FE?style=flat-square&logo=skype&logoColor=ffffff" />
     </a>
 </p>
 
