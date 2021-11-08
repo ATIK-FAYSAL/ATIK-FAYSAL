@@ -55,10 +55,7 @@
     <img src="https://img.shields.io/badge/Data%20binding%20-%237FB0E5.svg?&style=flat-square&logo=gps&logoColor=white"/>
 </a>
 <a title="Kotlin KTX" href="https://www.markdownguide.org/">
-    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
-</a>
-<a title="Version Control" href="https://www.markdownguide.org/">
-    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotin%20KTX-%23FE0439.svg?&style=flat-square&logo=kotlinktx&logoColor=white"/>
 </a>
 
 <h3>DATABASES</h3>
