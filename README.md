@@ -112,8 +112,8 @@
 
 <h4>Editors & <span title="Intergrated Development Environment">IDE</span>'s</h4>
     
-<a title="VsCode" href="https://code.visualstudio.com/">
-   <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
+<a title="Android Studio" href="https://developer.android.com/studio">
+   <img src="https://img.shields.io/badge/-Android-%23007ACC?style=flat-square&logo=android" />
 </a>
 <a title="PHPSTORM" href="https://www.jetbrains.com/phpstorm/">
    <img src="https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm" />
@@ -130,38 +130,11 @@
 
 <h4>Other Tools</h4>
 
-<a title="Netlify" href="https://www.netlify.com/">
-   <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" />
-</a>
-<a title="WebPack" href="https://webpack.js.org/">
-   <img src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
-</a>
-<a title="ESLint" href="https://eslint.org/">
-   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
-</a>
-<a title="Adobe PhotoShop" href="https://www.adobe.com/products/photoshop.html">
-   <img src="https://img.shields.io/badge/Adobe%20Photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
-</a>
-<a title="Adobe Illustrator" href="https://www.adobe.com/products/photoshop.html">
-   <img src="https://img.shields.io/badge/Adobe%20Illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
-</a>
-<a title="Wordpress WooCommerce Plugin" href="https://woocommerce.com/">
-   <img src="https://img.shields.io/badge/WooCommerce%20-%2396588A.svg?&style=flat-square&logo=woocommerce&logoColor=white"/>
-</a>
-<a title="Wordpress Yoast Seo Plugin" href="https://yoast.com/">
-   <img src="https://img.shields.io/badge/Yoast%20-%23A4286A.svg?&style=flat-square&logo=yoast&logoColor=white"/>
-</a>
-<a title="Wordpress Rocket (Speed Optimization Plugin)" href="https://wp-rocket.me/">
-   <img src="https://img.shields.io/badge/WP%20Rocket-%23F56640.svg?&style=flat-square&logo=wp-rocket&logoColor=white"/>
-</a>
 <a title="The World Wide Web Consortium (W3C)" href="https://www.w3.org/">
    <img src="https://img.shields.io/badge/W3C-%23005A9C.svg?&style=flat-square&logo=w3c&logoColor=white"/>
 </a>
 <a title="APACHE (Web Server)" href="https://www.apache.org/">
    <img src="https://img.shields.io/badge/Apache-%23D22128.svg?&style=flat-square&logo=apache&logoColor=white"/>
-</a>
-<a title="NGINX (Web Server)" href="https://www.nginx.com/">
-   <img src="https://img.shields.io/badge/Nginx-%23269539.svg?&style=flat-square&logo=nginx&logoColor=white"/>
 </a>
 <a title="XAMPP" href="https://www.apachefriends.org/download.html">
    <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?&style=flat-square&logo=xampp&logoColor=white"/>
