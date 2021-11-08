@@ -1,6 +1,6 @@
-[![Repos Badge](https://badges.pufler.dev/repos/ATIK-FAYSAL)](https://github.com/ATIK-FAYSAL)
-[![Gists Badge](https://badges.pufler.dev/gists/ATIK-FAYSAL)](https://gist.github.com/ATIK-FAYSAL)
-[![Gists Badge](https://pageview.vercel.app/?github_user=ATIK-FAYSAL)](https://github.com/ATIK-FAYSAL)
+[![Repos Badge](https://badges.pufler.dev/repos/AtikFaysal)](https://github.com/AtikFaysal)
+[![Gists Badge](https://badges.pufler.dev/gists/AtikFaysal)](https://gist.github.com/AtikFaysal)
+[![Gists Badge](https://pageview.vercel.app/?github_user=AtikFaysal)](https://github.com/AtikFaysal)
 
 
 ### Download Resume:
@@ -10,8 +10,8 @@
 
 <h2>MY GITHUB STATS</h2>
 <p>
-  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=ATIK-FAYSAL&show_icons=true&line_height=27">
-  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATIK-FAYSAL">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=AtikFaysal&show_icons=true&line_height=27">
+  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikFaysal">
 </p>
 
 <h2>MY TECH STACK </h2>
@@ -108,7 +108,7 @@
 <a title="Git" href="https://git-scm.com/">
    <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 </a>
-<a title="Github" href="https://github.com/ATIK-FAYSAL">
+<a title="Github" href="https://github.com/AtikFaysal">
    <img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a title="BitBucket" href="https://bitbucket.org/atik1404/">
@@ -143,7 +143,7 @@
 </a>
 
 [website]: https://clustercoding.com/
-[twitter]: https://twitter.com/ATIK-FAYSAL
+[twitter]: https://twitter.com/AtikFaysal
 [youtube]:  https://www.youtube.com/
-[linkedin]: https://bd.linkedin.com/in/atik-faysal-368a6412b
-[facebook]: https://www.facebook.com/ATIK-FAYSAL/
+[linkedin]: https://bd.linkedin.com/in/AtikFaysal-368a6412b
+[facebook]: https://www.facebook.com/AtikFaysal/
