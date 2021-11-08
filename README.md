@@ -100,8 +100,20 @@
 <a title="Github" href="https://github.com/ATIK-FAYSAL">
    <img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a title="BitBucket" href="https://bitbucket.org/ATIK-FAYSAL/">
+<a title="BitBucket" href="https://bitbucket.org/atik1404/">
    <img src="https://img.shields.io/badge/Bitbucket%20-%230047B3.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
+</a>
+
+<h3>Online Judge</h3>
+
+<a title="UVA" href="https://tinyurl.com/4c3u6b2e">
+   <img src="https://img.shields.io/badge/UVA%20-%23A304FE.svg?&style=flat-square&logo=uva&logoColor=white"/>
+</a>
+<a title="Codeforces" href="https://tinyurl.com/4c3u6b2e">
+   <img src="https://img.shields.io/badge/Codeforces%20-%23FE04AE.svg?&style=flat-square&logo=codeforces&logoColor=white"/>
+</a>
+<a title="URI" href="https://tinyurl.com/4c3u6b2e">
+   <img src="https://img.shields.io/badge/URI%20-%2304E0FE.svg?&style=flat-square&logo=uri&logoColor=white"/>
 </a>
 
 <h4>Editors & <span title="Intergrated Development Environment">IDE</span>'s</h4>
