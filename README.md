@@ -27,52 +27,38 @@
   <a title="C++" href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C++-%23ED8B00.svg?&style=flat-square&logo=C++&logoColor=white"/>
   </a>
+   <a title="PHP" href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
+  </a>
 </p>
 
-<h3>WEB TECHNOLOGIES </h3>
-
-<a title="HTML5" href="https://www.w3schools.com/html/default.asp">
-  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
+<h3>Android Skills</h3>
+<a title="Problem Solving" href="https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cyt6Ka7dlmc7t2DCxmhKGVcadHR-vz13HCC4NgyaoBYZkWBdctbMcaAnOhEALw_wcB&gclsrc=aw.ds">
+  <img src="https://img.shields.io/badge/MVVM%20-%23E34F26.svg?&style=flat-square&logo=mvvm&logoColor=white"/>
 </a>
-<a title="CSS3" href="https://www.w3schools.com/css/default.asp">
-    <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
+<a title="MVVM" href="https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cyt6Ka7dlmc7t2DCxmhKGVcadHR-vz13HCC4NgyaoBYZkWBdctbMcaAnOhEALw_wcB&gclsrc=aw.ds">
+  <img src="https://img.shields.io/badge/MVVM%20-%23E34F26.svg?&style=flat-square&logo=mvvm&logoColor=white"/>
 </a>
-<a title="JavaScript" href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+<a title="RxAndroid" href="https://github.com/ReactiveX/RxAndroid">
+    <img src="https://img.shields.io/badge/RxAndroid%20-%231572B6.svg?&style=flat-square&logo=rxandroid&logoColor=white"/>
 </a>
-<a title="JQuery" href="https://jquery.com/">
-    <img src="https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
-</a>
-<a title="PHP" href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
-</a>
-<a title="Markdown" href="https://www.markdownguide.org/">
+<a title="Kotlin Coroutines" href="https://www.markdownguide.org/">
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
 </a>
-
-<h3>FRAMEWORKS & CMS </h3>
-    
-<a title="Laravel" href="https://www.laravel.com/">
-    <img src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white"/>
+<a title="Firebase" href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
-<a title="Laravel Livewire" href="https://laravel-livewire.com/">
-    <img src="https://img.shields.io/badge/Laravel%20Livewire%20-%23FF2D20.svg?&style=flat-square&logo=laravel-livwire&logoColor=white"/>
+<a title="GPS Location" href="https://jquery.com/">
+    <img src="https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
 </a>
-
-<a title="Vue.JS" href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
+<a title="Data Binding" href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
 </a>
-<a title="React JS" href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React%20JS-%2335495e.svg?&style=flat-square&logo=reactjs&logoColor=%234FC08D"/>
+<a title="Kotlin KTX" href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
 </a>
-<a title="Bootstrap" href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
-</a>
-<a title="Tailwind CSS" href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white"/>
-</a>
-<a title="WordPress" href="https://wordpress.org/">
-    <img src="https://img.shields.io/badge/WordPress%20-%2321759B.svg?&style=flat-square&logo=wordpress&logoColor=white"/>
+<a title="Version Control" href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
 </a>
 
 <h3>DATABASES</h3>
