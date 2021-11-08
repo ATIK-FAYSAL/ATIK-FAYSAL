@@ -34,25 +34,25 @@
 
 <h3>Android Skills</h3>
 <a title="Problem Solving" href="https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cyt6Ka7dlmc7t2DCxmhKGVcadHR-vz13HCC4NgyaoBYZkWBdctbMcaAnOhEALw_wcB&gclsrc=aw.ds">
-  <img src="https://img.shields.io/badge/MVVM%20-%23E34F26.svg?&style=flat-square&logo=mvvm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prolem%20Solving%20-%23E3B120.svg?&style=flat-square&logo=mvvm&logoColor=white"/>
 </a>
 <a title="MVVM" href="https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cyt6Ka7dlmc7t2DCxmhKGVcadHR-vz13HCC4NgyaoBYZkWBdctbMcaAnOhEALw_wcB&gclsrc=aw.ds">
   <img src="https://img.shields.io/badge/MVVM%20-%23E34F26.svg?&style=flat-square&logo=mvvm&logoColor=white"/>
 </a>
 <a title="RxAndroid" href="https://github.com/ReactiveX/RxAndroid">
-    <img src="https://img.shields.io/badge/RxAndroid%20-%231572B6.svg?&style=flat-square&logo=rxandroid&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RxAndroid%20-%230E56EF.svg?&style=flat-square&logo=rxandroid&logoColor=white"/>
 </a>
 <a title="Kotlin Coroutines" href="https://www.markdownguide.org/">
-    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Coroutines%20-%239220EC.svg?&style=flat-square&logo=coroutines&logoColor=white"/>
 </a>
 <a title="Firebase" href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/Firebase%20-%23F1A708.svg?&style=flat-square&logo=firebase&logoColor=white"/>
 </a>
 <a title="GPS Location" href="https://jquery.com/">
-    <img src="https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GPS%20Location%20-%237FE5A9.svg?&style=flat-square&logo=gps&logoColor=white"/>
 </a>
 <a title="Data Binding" href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Data%20binding%20-%237FB0E5.svg?&style=flat-square&logo=gps&logoColor=white"/>
 </a>
 <a title="Kotlin KTX" href="https://www.markdownguide.org/">
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
@@ -113,7 +113,7 @@
 <h4>Editors & <span title="Intergrated Development Environment">IDE</span>'s</h4>
     
 <a title="Android Studio" href="https://developer.android.com/studio">
-   <img src="https://img.shields.io/badge/-Android-%23007ACC?style=flat-square&logo=android" />
+   <img src="https://img.shields.io/badge/-Android%20Studio-%23007ACC?style=flat-square&logo=android" />
 </a>
 <a title="PHPSTORM" href="https://www.jetbrains.com/phpstorm/">
    <img src="https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm" />
