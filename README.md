@@ -4,7 +4,7 @@
 
 
 ### Download Resume:
-<a title="PHP" href="https://drive.google.com/u/0/uc?id=1qdK3JZVD9ZxTXfNZQgr0FdFUkWWxwhLT&export=download">
+<a title="Resume" href="https://drive.google.com/file/d/13T38SWM2HF2GoCuX2oSRL8LQ2ckiySpQ/view?usp=sharing">
    <img src="https://img.shields.io/badge/Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff"/>
 </a>
 
@@ -83,23 +83,26 @@
 <a title="MYSQL" href="https://www.mysql.com/">
     <img src="http://img.shields.io/badge/-MYSQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
 </a>
+<a title="Room" href="https://developer.android.com/training/data-storage/room">
+    <img src="https://img.shields.io/badge/-Room-%234479A1?style=flat-square&logo=room&logoColor=ffffff"/>
+</a>
 
 <h2>WHERE TO FIND ME</h2>
 <p>
     <a title="Facebook" href="https://facebook.com/ATIK-FAYSAL">
-        <img src="https://img.shields.io/badge/-Nawaz-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-AtikFaysal-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/ATIK-FAYSAL/">
-        <img src="https://img.shields.io/badge/-Nawaz-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-AtikFaysal-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
-    <a title="Instagram" href="https://instagram.com/mr.ms.nawaz">
-        <img src="https://img.shields.io/badge/-Nawaz-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
+    <a title="Instagram" href="https://instagram.com/mr.ms.AtikFaysal">
+        <img src="https://img.shields.io/badge/-AtikFaysal-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
     </a>
     <a title="Twitter" href="https://twitter.com/ATIK-FAYSAL">
-        <img src="https://img.shields.io/badge/-Nawaz-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-AtikFaysal-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
     <a title="Youtube" href="https://www.youtube.com/channel/UCIj_o-fxwSZwYMwEKy8AuVg">
-        <img src="https://img.shields.io/badge/-Nawaz-%23FF0000?style=flat-square&logo=youtube" />
+        <img src="https://img.shields.io/badge/-AtikFaysal-%23FF0000?style=flat-square&logo=youtube" />
     </a>
 </p>
 
