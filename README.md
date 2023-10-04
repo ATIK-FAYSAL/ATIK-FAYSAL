@@ -78,8 +78,11 @@
     <a title="Facebook" href="https://facebook.com/atikfaysal1404">
         <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
-    <a title="LinkedIn" href="https://tinyurl.com/4c3u6b2e">
+    <a title="LinkedIn" href="https://www.linkedin.com/in/atik-faysal-368a6412b/">
         <img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+    </a>
+	 <a title="Stackoverflow" href="https://stackoverflow.com/users/8335779/atik-faysal">
+        <img src="https://img.shields.io/badge/-stackoverflow-%230e76a8?style=flat-square&logo=stackoverflow&logoColor=fcba03" />
     </a>
     <a title="Instagram" href="https://www.instagram.com/md_atik_faysal">
         <img src="https://img.shields.io/badge/-Instagram-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
