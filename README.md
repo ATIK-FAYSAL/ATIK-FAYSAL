@@ -5,7 +5,7 @@
 [![Gists Badge](https://badges.pufler.dev/gists/AtikFaysal)](https://gist.github.com/AtikFaysal)
 [![Gists Badge](https://pageview.vercel.app/?github_user=AtikFaysal)](https://github.com/AtikFaysal)
 
-[![Atik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AtikFaysal&theme=dracula)](https://github.com/AtikFaysal/github-readme-activity-graph)
+[![Atik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AtikFaysal&theme=github-compact)](https://github.com/AtikFaysal/github-readme-activity-graph)
 
 ### Download Resume:
 <a title="Resume" href="https://drive.google.com/file/d/13T38SWM2HF2GoCuX2oSRL8LQ2ckiySpQ/view?usp=sharing">
